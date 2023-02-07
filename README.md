@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @onurozansunger
 - 👀 I’m interested in computer science and programming.
-- 🌱 I’m currently learning Java
 - 📫 How to reach me Twitter: @ozanforreal
