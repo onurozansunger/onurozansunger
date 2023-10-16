@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @onurozansunger
-- 👀 I’m interested in computer science and programming.
+- 👀 I’m interested in data science and programming.
+- 📚Studying Data Science Master in Sapienza University of Rome
 - 📫 How to reach me Twitter: @ozanforreal
