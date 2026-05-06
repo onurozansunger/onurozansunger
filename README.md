@@ -64,6 +64,7 @@
 | 🎬 [ADM-HW4](https://github.com/onurozansunger/ADM-HW4-Group-1) | MinHash-based recommendation system on Netflix-like data |
 | 🕸️ [ADM-HW5](https://github.com/onurozansunger/ADM-HW5-Group2) | Graph analysis on citation & collaboration networks |
 | 📊 [FDS-PROJECT](https://github.com/onurozansunger/FDS-PROJECT) | End-to-end data-science pipeline on a Netflix dataset |
+| 🧠 [BNM-anxiety-network-medicine](https://github.com/onurozansunger/BNM-anxiety-network-medicine) | Network medicine pipeline for anxiety disorder — interactome construction, DIAMOnD + Heat Diffusion gene discovery, drug repurposing |
 
 ---
 
