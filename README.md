@@ -63,15 +63,5 @@
 | 📊 [FDS-PROJECT](https://github.com/onurozansunger/FDS-PROJECT) | End-to-end data-science pipeline on a Netflix dataset |
 | 🧠 [BNM-anxiety-network-medicine](https://github.com/onurozansunger/BNM-anxiety-network-medicine) | Network medicine pipeline for anxiety disorder — interactome construction, DIAMOnD + Heat Diffusion gene discovery, drug repurposing |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onurozansunger&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurozansunger&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 <p align="center"><em>📍 Roma, Italia</em></p>
