@@ -8,7 +8,7 @@
   <a href="mailto:onurozansunger@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ozansunger"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/ozanforreal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://onurozansunger.github.io"><img src="https://img.shields.io/badge/Website-24292e?style=flat&logo=githubpages&logoColor=white"/></a>
+  <a href="https://onurozansunger.com.tr"><img src="https://img.shields.io/badge/Website-24292e?style=flat&logo=githubpages&logoColor=white"/></a>
 </p>
 
 ---
