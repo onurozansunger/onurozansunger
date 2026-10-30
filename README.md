@@ -1,67 +1,94 @@
-<h1 align="center">Hi, I'm Onur Ozan Sünger 👋</h1>
-
 <p align="center">
-  <em>Computer Engineer &amp; Data Science MSc Student @ Sapienza University of Rome 🇮🇹</em>
+  <img src="https://raw.githubusercontent.com/onurozansunger/onurozansunger/main/assets/profile-header.svg" alt="Onur Ozan Sünger — Applied Machine Learning. Predictive intelligence. Reproducible systems." width="100%" />
 </p>
 
 <p align="center">
-  <a href="mailto:onurozansunger@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ozansunger"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/ozanforreal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://onurozansunger.com.tr"><img src="https://img.shields.io/badge/Website-24292e?style=flat&logo=githubpages&logoColor=white"/></a>
+  <b>Computer Engineer · MSc in Data Science, Sapienza University of Rome</b><br />
+  Machine learning for energy, infrastructure and complex systems.
+</p>
+
+<p align="center">
+  <a href="https://onurozansunger.com.tr"><b>Portfolio ↗</b></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:onurozansunger@gmail.com"><b>Email ↗</b></a>
 </p>
 
 ---
 
-### 🧠 About Me
+## About
 
-- 🎓 MSc in Data Science @ **Sapienza University of Rome** (GPA 24/30)
-- 🛠️ BSc in Computer Engineering @ **OSTIM Technical University** (GPA 3.04/4.00)
-- 🤖 Built AI-driven systems including a real-time emotion detection model integrated with Spotify
-- 💼 Past internships at **KAREL Electronics** (embedded R&D) and **Presidency of Revenue Administration** (backend / ML-powered web app)
-- 🔬 Passionate about **Reinforcement Learning, MLOps, and Human–Computer Interaction**
-- 🌍 Roma, Italia · 🇹🇷 TR (native) · 🇬🇧 EN (C1) · 🇮🇹 IT (A2) · 🇩🇪 DE (A1)
+I'm a computer engineer and **Data Science MSc graduate from Sapienza University of Rome**. My work focuses on predictive maintenance, anomaly detection and reproducible ML workflows — from data preparation and evaluation to APIs and interactive dashboards.
 
----
+I care about how a model is evaluated, where it fails and how its results can support a useful decision.
 
-### 🧰 Tech Stack
+## Selected work
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### Wind Turbine Predictive Maintenance
 
-### 💼 Experience
+Developed the **failure-prediction module** within a collaborative maintenance platform: a 48-hour prediction horizon, leakage-aware validation and model explanations, with FastAPI and Streamlit interfaces.
 
-| Role | Company | Period |
-| --- | --- | --- |
-| AI Developer (Self Project) | Sapienza University of Rome | Feb 2024 – Jun 2024 |
-| Computer Engineering Intern | KAREL Electronics, Ankara | Jan 2023 – Jun 2023 |
-| Software Intern | Presidency of Revenue Administration, Ankara | Jul 2022 – Jan 2023 |
-| President | IEEE OSTIMTECH Student Branch | 2021 – 2022 |
+<sub>Time-series ML · Explainability · Synthetic SCADA data · Advisory prototype</sub>
 
----
+**[Explore the project ↗](https://github.com/SEO-Dynamics/Wind-Turbine-Predictive-Maintenance-Platform)**
 
-### 🚀 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-| Project | Description |
-| --- | --- |
-| 😄 [facial-emotion-recognition](https://github.com/onurozansunger/facial-emotion-recognition) | Real-time facial emotion recognition with CNN + TFLite + OpenCV |
-| 🎮 [Cartpole-and-RL](https://github.com/onurozansunger/Cartpole-and-RL) | RL experiments (DQN, A2C, DDPG, PPO) on CartPole-v1 |
-| 🔎 [ADM-HW3](https://github.com/onurozansunger/ADM-HW3-Group-26) | Search engine over master's degree programs (TF-IDF + custom scoring) |
-| 🎬 [ADM-HW4](https://github.com/onurozansunger/ADM-HW4-Group-1) | MinHash-based recommendation system on Netflix-like data |
-| 🕸️ [ADM-HW5](https://github.com/onurozansunger/ADM-HW5-Group2) | Graph analysis on citation & collaboration networks |
-| 📊 [FDS-PROJECT](https://github.com/onurozansunger/FDS-PROJECT) | End-to-end data-science pipeline on a Netflix dataset |
-| 🧠 [BNM-anxiety-network-medicine](https://github.com/onurozansunger/BNM-anxiety-network-medicine) | Network medicine pipeline for anxiety disorder — interactome construction, DIAMOnD + Heat Diffusion gene discovery, drug repurposing |
+### Battery Digital Twin
 
+Research prototype for **remaining-life estimation** and uncertainty-aware fleet monitoring using NASA battery-aging data. Includes model monitoring, a registry, promotion gates, APIs and dashboards.
 
-<p align="center"><em>📍 Roma, Italia</em></p>
+<sub>Predictive intelligence · MLOps · Research prototype</sub>
+
+**[Explore the project ↗](https://github.com/onurozansunger/Battery-Digital-Twin-and-Predictive-Intelligence-Platform)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Sensor-Attack Detection
+
+Thesis research using a **hybrid mixture of experts** to detect sensor attacks in water-distribution networks. Publishes Modena and L-Town results, source code and reproducible evaluation evidence.
+
+<sub>Anomaly detection · Cyber-physical systems · Thesis</sub>
+
+**[Explore the research ↗](https://github.com/onurozansunger/wdn-thesis)**
+
+</td>
+<td width="50%" valign="top">
+
+### Network Medicine
+
+Academic group project exploring anxiety-disorder biology through **protein-interaction networks**, DIAMOnD and heat-diffusion gene ranking, enrichment analysis and drug-repurposing candidate screening.
+
+<sub>Graph analysis · Computational biology · Exploratory research</sub>
+
+**[Explore the project ↗](https://github.com/onurozansunger/BNM-anxiety-network-medicine)**
+
+</td>
+</tr>
+</table>
+
+**Also exploring:** [Real-time facial emotion recognition](https://github.com/onurozansunger/facial-emotion-recognition) with CNNs, TFLite and OpenCV · [Reinforcement learning](https://github.com/onurozansunger/Cartpole-and-RL) with DQN, A2C, DDPG and PPO.
+
+## Toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| Languages & data | Python · Java · PostgreSQL |
+| Machine learning | PyTorch · TensorFlow · scikit-learn · OpenCV |
+| Applications & delivery | FastAPI · Streamlit · Docker · Git · Linux |
+
+## Background
+
+- **MSc in Data Science** — Sapienza University of Rome · Graduated
+- **BSc in Computer Engineering** — OSTIM Technical University
+- **Engineering internships** — KAREL Electronics, embedded R&D; Presidency of Revenue Administration, backend and ML-powered web development
+- **Leadership** — Former President, IEEE OSTIMTECH Student Branch
+
+<sub>Turkish (native) · English (C1) · Italian (A2) · German (A1)</sub>
