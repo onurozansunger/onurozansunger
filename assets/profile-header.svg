@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Onur Ozan Sünger — Applied Machine Learning</title>
+  <desc id="desc">Predictive intelligence. Reproducible systems. Computer Engineer, MSc Data Science at Sapienza. A dark navy banner with a mint and blue network illustration.</desc>
+  <style>
+    .signal-flow { animation: signal-travel 14s linear infinite; }
+    .signal-ring { transform-box: fill-box; transform-origin: center; animation: signal-breathe 7s ease-in-out infinite; }
+    .signal-ring-delayed { animation-delay: -3.5s; }
+    @keyframes signal-travel { to { stroke-dashoffset: -120; } }
+    @keyframes signal-breathe {
+      0%, 100% { opacity: 0.45; transform: scale(0.94); }
+      50% { opacity: 1; transform: scale(1.08); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .signal-flow, .signal-ring { animation: none; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1728"/>
+      <stop offset="1" stop-color="#080F1C"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="70%" cy="47%" r="57%">
+      <stop offset="0" stop-color="#164C51" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#164C51" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#70E6C3"/>
+      <stop offset="1" stop-color="#82B9F3"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#B7D5EE" stroke-opacity="0.045"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="320" rx="18"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <rect x="750" width="450" height="320" fill="url(#grid)"/>
+    <ellipse cx="1004" cy="155" rx="318" ry="246" fill="url(#aura)"/>
+    <path d="M0 0H1200" stroke="url(#accent)" stroke-width="4"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M812 101L918 62L1025 107L1128 71M812 101L918 159L1025 107L1128 162M812 219L918 159L1025 232L1128 162M812 219L918 266L1025 232L1128 270" stroke="#5DA9BD" stroke-opacity="0.22" stroke-width="1.5"/>
+      <path d="M812 101L918 159L1025 232L1128 162" stroke="#72E4C3" stroke-opacity="0.66" stroke-width="2"/>
+      <path class="signal-flow" d="M812 101L918 159L1025 232L1128 162" stroke="#B4F5E0" stroke-opacity="0.65" stroke-width="2" stroke-dasharray="3 27"/>
+      <path d="M812 219L918 159L1025 107L1128 71" stroke="#80B9EF" stroke-opacity="0.55" stroke-width="1.7"/>
+      <path d="M918 62V266M1025 107V232M1128 71V270" stroke="#90BFDF" stroke-opacity="0.10" stroke-dasharray="3 7"/>
+      <circle class="signal-ring" cx="918" cy="159" r="32" stroke="#70E6C3" stroke-opacity="0.20"/>
+      <circle cx="918" cy="159" r="21" stroke="#70E6C3" stroke-opacity="0.20"/>
+      <circle class="signal-ring signal-ring-delayed" cx="1025" cy="107" r="19" stroke="#82B9F3" stroke-opacity="0.22"/>
+    </g>
+    <g stroke="#102638" stroke-width="5">
+      <circle cx="812" cy="101" r="7" fill="#648A9C"/>
+      <circle cx="812" cy="219" r="7" fill="#7CADD0"/>
+      <circle cx="918" cy="62" r="6" fill="#41677D"/>
+      <circle cx="918" cy="159" r="10" fill="#81EBCB"/>
+      <circle cx="918" cy="266" r="6" fill="#41677D"/>
+      <circle cx="1025" cy="107" r="8" fill="#91C5FA"/>
+      <circle cx="1025" cy="232" r="8" fill="#6ACDB6"/>
+      <circle cx="1128" cy="71" r="6" fill="#7BA9D0"/>
+      <circle cx="1128" cy="162" r="8" fill="#84E3CA"/>
+      <circle cx="1128" cy="270" r="6" fill="#41677D"/>
+    </g>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+      <rect x="52" y="53" width="24" height="3" rx="1.5" fill="#79E7C6"/>
+      <text x="89" y="60" fill="#8BE7CE" font-size="14" font-weight="650" letter-spacing="2.4">APPLIED MACHINE LEARNING</text>
+      <text x="49" y="137" fill="#F1F6FC" font-size="56" font-weight="700" letter-spacing="-1.8">Onur Ozan Sünger</text>
+      <text x="52" y="183" fill="#B8C9DD" font-size="23" font-weight="400" letter-spacing="0.1">Predictive intelligence. Reproducible systems.</text>
+      <path d="M52 222H701" stroke="#254052" stroke-width="1"/>
+      <text x="52" y="259" fill="#839DB4" font-size="13" font-weight="600" letter-spacing="1.5">COMPUTER ENGINEER  /  MSc DATA SCIENCE · SAPIENZA</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="17.5" fill="none" stroke="#203146"/>
+</svg>
